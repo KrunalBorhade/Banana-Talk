@@ -1,3 +1,6 @@
+body{
+    background-color: hsl(60, 69%, 68%);
+}
 
 h1{
     text-align: center;
@@ -17,12 +20,13 @@ h1{
 
 #txt-input{
     box-sizing: border-box;
-    width: 80%;
-    height: 10vh;
-    padding: 2rem;
+    width: 50%;
+    height: 20vh;
+    padding: 4rem;
     border: 1px solid black;
-    margin-left: 10%;
+    margin-left: 25%;
     margin-top: 1rem;
+    text-align: center;
     
 }
 
@@ -45,11 +49,11 @@ div{
 }
 #output{
     box-sizing: border-box;
-    width: 80%;
-    height: 10vh;
-    padding: 2rem;
+    width: 50%;
+    height: 20vh;
+    padding: 4rem;
     border: 1px solid black;
-    margin-left: 10%;
+    margin-left: 25%;
     margin-top: 1rem;
     
 }
